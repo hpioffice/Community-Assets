@@ -1,6 +1,6 @@
 # CryEngine Community Edition
 [dot] version 1.0.0.2 
-![Screenshot of a 3D scene in the Sandbox editor](https://raw.githubusercontent.com/hpioffice/Community-Assets/v1-0-0-1/screenshot.png)
+![Screenshot of a 3D scene in the Sandbox editor](https://raw.githubusercontent.com/hpioffice/Community-Assets/refs/heads/main/v1-0-0-1/screenshot.png)
 
 this the First Community Efforts shows how beloved CryENGINE!
 this version contains:
