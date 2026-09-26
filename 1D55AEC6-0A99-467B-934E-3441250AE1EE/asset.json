@@ -1,0 +1,23 @@
+{
+  "cryengine_community_asset": {
+    "name": "simple test",
+    "author": "HPi",
+    "id": "1D55AEC6-0A99-467B-934E-3441250AE1EE",
+    "category": "3D Models",
+    "sub_category": "Props",
+    "description": "Simple Test For asset publishing",
+    "download_link": "https://drive.google.com/file/d/1xDWTfqDfjw6iQPFgLXdFCIh71VZRJMPY/view?usp=drive_link",
+    "thumbnail": "thumb.png",
+    "screenshots": [
+      {
+        "1": "01_avatar_new.png"
+      },
+      {
+        "2": "02_Avatar_new0.png"
+      },
+      {
+        "3": "03_github.png"
+      }
+    ]
+  }
+}
