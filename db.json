@@ -1,6 +1,10 @@
 {
   "cryengine_community_asset_db": {
-    "total_assets": 0,
-    "assets": []
+    "total_assets": 1,
+    "assets": [
+      {
+        "1": "1D55AEC6-0A99-467B-934E-3441250AE1EE"
+      }
+    ]
   }
 }
